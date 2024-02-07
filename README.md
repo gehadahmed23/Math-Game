@@ -2,6 +2,7 @@
 A fun game for math lovers
 
 🔻 Idea of project :
+
 The game is to find out the missing number or operation in the equation.I will choose random numbers and a random process each time and the subject of a question mark so that the equation changes each time.
 
 🔻The process of MATH GAME :
