@@ -21,7 +21,7 @@ The game is to find out the missing number or operation in the equation.I will c
 -AVR
 -Atmega32A .
 
-🔻The software program design consists of 3 layers:-
+🔻The software program design consists of 3 layers :
  - Main Application Layer
  - HAL Layer:-
     - LCD 
