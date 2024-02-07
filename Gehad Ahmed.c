@@ -164,7 +164,7 @@ int main(void)
 		   level++;
 		   char buf[10];
 		   LCD_sendFloat(level, buf, 0);
-		   LCD_vSend_char(buf);
+		   LCD_vSend_string(buf);
 		   _delay_ms(1500);
 		   LCD_clearscreen();
 		   flagNegative = 0, flag1 = 0, flag2 = 0, flag3 = 0,flag4 = 0, x = NOTPRESSED;
