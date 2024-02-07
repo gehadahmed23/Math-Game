@@ -11,7 +11,7 @@ The game is to find out the missing number or operation in the equation.I will c
 4) If you want to play again, click ON/c and the game will start again.
 
 🔻Hardware include :
-- فه
+
 - LCD 2*16 
 - Keypad 4*4
 - Variable resistance << To control the lighting intensity
